@@ -4,7 +4,6 @@ import java.util.List;
 import lombok.RequiredArgsConstructor;
 import org.example.onlinebookstore.dto.BookDto;
 import org.example.onlinebookstore.dto.CreateBookRequestDto;
-import org.example.onlinebookstore.model.Book;
 import org.example.onlinebookstore.service.BookService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
